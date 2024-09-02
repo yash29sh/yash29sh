@@ -18,16 +18,36 @@ I'm a highly motivated and analytical professional with a passion for extracting
 
 ## 📈 Projects
 - **[🎵 SQL Music Store Analysis Project](https://github.com/yash29sh/SQL_Music-Store-Analysis-Project)**
-  - End-to-end analysis of music store data using SQL and PostgreSQL Database Server.
+  - 🎶 Comprehensive analysis of a music store database using SQL and PostgreSQL.
+  - 📊 Generated valuable insights to help understand sales trends and customer preferences.
 
 - **[👗 Excel Clothing Store Data Analysis](https://github.com/yash29sh/Excel_Store_Data_Analysis)**
-  - Created a comprehensive data analysis report dashboard using Vrinda Store Data.
+  - 📈 Created a data analysis report and dashboard using Excel for Vrinda Store.
+  - 🛒 Provided actionable insights on sales performance and inventory management.
 
 - **[📊 Power BI Madhav Store Analysis Dashboard](https://github.com/yash29sh/Madhav-Store-Sales-Analysis-Dashboard)**
-  - Developed an interactive dashboard to track and analyze online sales data.
+  - 📉 Developed an interactive Power BI dashboard to analyze and track online sales data.
+  - 🎯 Focused on visualizing key sales metrics to aid in strategic decision-making.
 
 - **[🏏 Python EDA On IPL Dataset](https://github.com/yash29sh/EDA-On-IPL-Dataset-Through-Python)**
-  - Conducted exploratory data analysis on IPL datasets using Python.
+  - 🧠 Conducted exploratory data analysis on IPL datasets using Python.
+  - 📅 Analyzed match data to uncover trends, player performance, and match outcomes.
+
+- **[💳 Power BI Credit Card Financial Dashboard](https://github.com/yash29sh/Credit-Card-Financial-Dashboard)**
+  - 🎉 Power BI Credit Card Financial Dashboard Project Unveiled! 🎉 
+    - Delivered real-time insights into crucial KPIs.
+    - Enhanced stakeholder decision-making capabilities.
+    - Identified potential challenges and optimized credit card operations.
+  - **Key Insights**:
+    - ⭐ Revenue Surge: 28.8% weekly growth (WoW), reaching $57M YTD.
+    - ⭐ Transaction Powerhouse: Total transaction volume of $46M.
+    - ⭐ Customer Acquisition: Activation rates at 57.5%.
+    - ⭐ Interest Earnings: $8M YTD from interest income.
+    - ⭐ Gender Split: $31M in transactions from males, $26M from females.
+    - ⭐ Card Type Preference: Blue & Silver cards account for 93% of transactions.
+    - ⭐ Top Performers: Texas, New York, and California contribute 68% of total revenue.
+    - ⭐ Delinquency Management: Current delinquency rate is 6.06%.
+
 
 ## 🎓 Education
 **Bachelor of Technology | Modern Institute of Technology & Research Centre**  
