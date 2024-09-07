@@ -2,24 +2,6 @@
 
 **🎓 B.Tech in Artificial Intelligence & Data Science | 📊 Aspiring Data Analyst**
 
-<div style="text-align: right;">
-
-[GitHub Icon](https://github.com/yash29sh)
-
-<a href="https://www.linkedin.com/in/yashshukla29">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="LinkedIn" width="32" height="32">
-</a>
-
-<a href="https://drive.google.com/file/d/1tJcXQi9wdjPlqDeVDeUjgQG2J6r2iOAi/view">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/google-drive.svg" alt="Resume" width="32" height="32">
-</a>
-
-<a href="https://yash29sh.github.io/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" alt="Portfolio" width="32" height="32">
-</a>
-
-</div>
-
 I'm a highly motivated and analytical professional with a passion for extracting insights from data. I specialize in SQL, PostgreSQL, Python, Excel, and Power BI. My goal is to leverage these skills to excel in a dynamic Analyst role within a fast-paced, growing company.
 
 ## 🚀 Skills
