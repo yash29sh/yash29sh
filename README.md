@@ -17,6 +17,22 @@ I'm a highly motivated and analytical professional with a passion for extracting
 - Created instructional materials on SQL and Python to empower students with data analysis skills.
 
 ## 📈 Projects
+- **[💳 Power BI Credit Card Financial Dashboard](https://github.com/yash29sh/Credit-Card-Financial-Dashboard)**
+  - 🎉 Power BI Credit Card Financial Dashboard Project Unveiled! 🎉 
+    - Delivered real-time insights into crucial KPIs.
+    - Enhanced stakeholder decision-making capabilities.
+    - Identified potential challenges and optimized credit card operations.
+  - **Key Insights**:
+    - ⭐ Revenue Surge: 28.8% weekly growth (WoW), reaching $57M YTD.
+    - ⭐ Transaction Powerhouse: Total transaction volume of $46M.
+    - ⭐ Customer Acquisition: Activation rates at 57.5%.
+    - ⭐ Interest Earnings: $8M YTD from interest income.
+    - ⭐ Gender Split: $31M in transactions from males, $26M from females.
+    - ⭐ Card Type Preference: Blue & Silver cards account for 93% of transactions.
+    - ⭐ Top Performers: Texas, New York, and California contribute 68% of total revenue.
+    - ⭐ Delinquency Management: Current delinquency rate is 6.06%.
+
+
 - **[🎵 SQL Music Store Analysis Project](https://github.com/yash29sh/SQL_Music-Store-Analysis-Project)**
   - 🎶 Comprehensive analysis of a music store database using SQL and PostgreSQL.
   - 📊 Generated valuable insights to help understand sales trends and customer preferences.
@@ -33,20 +49,6 @@ I'm a highly motivated and analytical professional with a passion for extracting
   - 🧠 Conducted exploratory data analysis on IPL datasets using Python.
   - 📅 Analyzed match data to uncover trends, player performance, and match outcomes.
 
-- **[💳 Power BI Credit Card Financial Dashboard](https://github.com/yash29sh/Credit-Card-Financial-Dashboard)**
-  - 🎉 Power BI Credit Card Financial Dashboard Project Unveiled! 🎉 
-    - Delivered real-time insights into crucial KPIs.
-    - Enhanced stakeholder decision-making capabilities.
-    - Identified potential challenges and optimized credit card operations.
-  - **Key Insights**:
-    - ⭐ Revenue Surge: 28.8% weekly growth (WoW), reaching $57M YTD.
-    - ⭐ Transaction Powerhouse: Total transaction volume of $46M.
-    - ⭐ Customer Acquisition: Activation rates at 57.5%.
-    - ⭐ Interest Earnings: $8M YTD from interest income.
-    - ⭐ Gender Split: $31M in transactions from males, $26M from females.
-    - ⭐ Card Type Preference: Blue & Silver cards account for 93% of transactions.
-    - ⭐ Top Performers: Texas, New York, and California contribute 68% of total revenue.
-    - ⭐ Delinquency Management: Current delinquency rate is 6.06%.
 
 
 ## 🎓 Education
