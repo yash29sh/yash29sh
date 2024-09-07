@@ -63,6 +63,7 @@ I'm a highly motivated and analytical professional with a passion for extracting
 - **Python For Data Analysis** - LinkedIn (Guide: Michele Vallisneri)
 
 ## 🌐 Let's Connect
+- **Resume**: [Yash Shukla](https://drive.google.com/file/d/1tJcXQi9wdjPlqDeVDeUjgQG2J6r2iOAi/view)
 - **Portfolio**: [yash29sh.github.io](https://yash29sh.github.io/)
 - **LinkedIn**: [Yash Shukla](https://www.linkedin.com/in/yashshukla29)
 - **GitHub**: [Yash Shukla](https://github.com/yash29sh)
