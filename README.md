@@ -17,7 +17,7 @@ I'm a highly motivated and analytical professional with a passion for extracting
 - Created instructional materials on SQL and Python to empower students with data analysis skills.
 
 ## 📈 Projects
-- **[🏏 Python Diwali Sales Data Analysis Project]([https://github.com/yash29sh/EDA-On-IPL-Dataset-Through-Python](https://github.com/yash29sh/Python-Diwali-Sales-Analysis-Project))**
+- **[🏏 Python Diwali Sales Data Analysis Project](https://github.com/yash29sh/Python-Diwali-Sales-Analysis-Project)**
   - 🧠 Identify customer behaviour trends during the Diwali sales season.
   - 📅 Provide actionable insights for sales strategy optimization.
 
