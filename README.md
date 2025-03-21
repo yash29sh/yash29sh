@@ -2,15 +2,21 @@
 
 **🎓 B.Tech in Artificial Intelligence & Data Science | 📊 Aspiring Data Analyst**
 
-I'm a highly motivated and analytical professional with a passion for extracting insights from data. I specialize in SQL, PostgreSQL, Python, Excel, and Power BI. My goal is to leverage these skills to excel in a dynamic Analyst role within a fast-paced, growing company.
+I am a data-driven professional with hands-on experience in data analysis, dashboard development, and business intelligence. As a Data Analyst Intern at ReconZo, I design and optimize Power BI dashboards for sales, payment reconciliation, and marketing performance, empowering businesses with actionable insights. My expertise spans SQL, PostgreSQL, Power BI, Excel, and Python, allowing me to extract, analyze, and visualize data effectively. Additionally, I have experience simplifying complex analytical concepts through educational content creation. Passionate about leveraging data to drive strategic decisions, I thrive on solving problems and uncovering trends that fuel business growth.
 
 ## 🚀 Skills
 - **SQL**: PostgreSQL Server, PgAdmin Database
 - **Python**: Data Analysis, Pandas, Numpy
-- **Tools**: MS Excel, Power BI, MS PowerPoint
-- **Soft Skills**: Analytical Thinking, Problem Solving, Continuous Learning
+- **Tools**: MS Excel, Power BI, MS PowerPoint, Goggle Sheets
+- **Soft Skills**: Analytical Thinking, Problem Solving, Continuous Learning, Reporting & Insights Delivering
 
 ## 💼 Experience
+**Data Analyst Intern | ReconZo**  
+*Sep 2024 - Present | Gurgaon, India*  
+- Designed and optimized Power BI dashboards for **Sales, Payment Reconciliation, and Marketing Performance**, providing real-time insights.  
+- Conducted data analysis using **Excel and Google Sheets**, ensuring accuracy for data-driven decision-making.  
+- Gained expertise in **Amazon Ads** and developed marketing dashboards to track and enhance campaign performance.
+
 **Data Analyst Intern (SME) | XcitEducation Worldwide**  
 *May 2022 - July 2022 | Delhi, India*  
 - Developed engaging video content to educate students on analytical thinking.
@@ -68,7 +74,7 @@ I'm a highly motivated and analytical professional with a passion for extracting
 - **Python For Data Analysis** - LinkedIn (Guide: Michele Vallisneri)
 
 ## 🌐 Let's Connect
-- **Resume**: [Yash Shukla](https://drive.google.com/file/d/1tJcXQi9wdjPlqDeVDeUjgQG2J6r2iOAi/view)
+- **Resume**: [Yash Shukla](https://drive.google.com/file/d/1gdcpvx-6K7zebD3AGsag4gxMkDOtR_XB/view?usp=sharing)
 - **Portfolio**: [yash29sh.github.io](https://yash29sh.github.io/)
 - **LinkedIn**: [Yash Shukla](https://www.linkedin.com/in/yashshukla29)
 - **GitHub**: [Yash Shukla](https://github.com/yash29sh)
