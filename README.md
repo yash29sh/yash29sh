@@ -4,12 +4,6 @@
 
 I am a data-driven professional with hands-on experience in data analysis, dashboard development, and business intelligence. As a Data Analyst Intern at ReconZo, I design and optimize Power BI dashboards for sales, payment reconciliation, and marketing performance, empowering businesses with actionable insights. My expertise spans SQL, PostgreSQL, Power BI, Excel, and Python, allowing me to extract, analyze, and visualize data effectively. Additionally, I have experience simplifying complex analytical concepts through educational content creation. Passionate about leveraging data to drive strategic decisions, I thrive on solving problems and uncovering trends that fuel business growth.
 
-## 🚀 Skills
-- **SQL**: PostgreSQL Server, PgAdmin Database
-- **Python**: Data Analysis, Pandas, Numpy
-- **Tools**: MS Excel, Power BI, MS PowerPoint, Goggle Sheets
-- **Soft Skills**: Analytical Thinking, Problem Solving, Continuous Learning, Reporting & Insights Delivering
-
 ## 💼 Experience
 **Data Analyst Intern | ReconZo**  
 *Sep 2024 - Present | Gurgaon, India*  
@@ -21,6 +15,12 @@ I am a data-driven professional with hands-on experience in data analysis, dashb
 *May 2022 - July 2022 | Delhi, India*  
 - Developed engaging video content to educate students on analytical thinking.
 - Created instructional materials on SQL and Python to empower students with data analysis skills.
+
+## 🚀 Skills
+- **SQL**: PostgreSQL Server, PgAdmin Database
+- **Python**: Data Analysis, Pandas, Numpy
+- **Tools**: MS Excel, Power BI, MS PowerPoint, Goggle Sheets
+- **Soft Skills**: Analytical Thinking, Problem Solving, Continuous Learning, Reporting & Insights Delivering
 
 ## 📈 Projects
 - **[🏏 Python Diwali Sales Data Analysis Project](https://github.com/yash29sh/Python-Diwali-Sales-Analysis-Project)**
