@@ -13,7 +13,7 @@ I enjoy transforming complex datasets into **clear insights**, automating report
 ## 💼 Experience
 
 ### **Data Analyst | Unicommerce**
-*Sep 2025 – Present | India*
+*Sep 2025 – Present | Gurgaon,India*
 - Developed and maintained **Upsell & Expansion dashboards** used by leadership to track additional sales driven by Customer Success and Upsell teams.
 - Owned **data extraction, transformation, and modeling using SQL (Redash)**, supporting automated **Monthly Business Review (MBR)** dashboards for ~1200 clients.
 - Standardized insights across key metrics including **sales, units, SKUs, RTO, O2S, SLA breaches, and facility-level performance**.
