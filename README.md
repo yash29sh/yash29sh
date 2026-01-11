@@ -1,80 +1,86 @@
 # 👋 Hi, I'm Yash Shukla!
 
-**🎓 B.Tech in Artificial Intelligence & Data Science | 📊 Aspiring Data Analyst**
+**📊 Data Analyst | E-commerce & Business Intelligence | Power BI • SQL • Python • Excel**
 
-I am a data-driven professional with hands-on experience in data analysis, dashboard development, and business intelligence. As a Data Analyst Intern at ReconZo, I design and optimize Power BI dashboards for sales, payment reconciliation, and marketing performance, empowering businesses with actionable insights. My expertise spans SQL, PostgreSQL, Power BI, Excel, and Python, allowing me to extract, analyze, and visualize data effectively. Additionally, I have experience simplifying complex analytical concepts through educational content creation. Passionate about leveraging data to drive strategic decisions, I thrive on solving problems and uncovering trends that fuel business growth.
+I am a data-driven analytics professional with hands-on experience in **business intelligence, dashboard automation, and data-driven decision support** across e-commerce and customer success domains.  
+Currently working at **Unicommerce**, I build and maintain analytics solutions that help leadership and client-facing teams track **upsell performance, operational metrics, and business health at scale**.
+
+Previously at **ReconZo**, I contributed to building analytics products for e-commerce merchants, designing dashboards for **sales, payment reconciliation, and marketing performance**.  
+I enjoy transforming complex datasets into **clear insights**, automating reporting workflows, and enabling stakeholders to make informed decisions.
+
+---
 
 ## 💼 Experience
-**Data Analyst Intern | ReconZo**  
-*Sep 2024 - Present | Gurgaon, India*  
-- Designed and optimized Power BI dashboards for **Sales, Payment Reconciliation, and Marketing Performance**, providing real-time insights.  
-- Conducted data analysis using **Excel and Google Sheets**, ensuring accuracy for data-driven decision-making.  
-- Gained expertise in **Amazon Ads** and developed marketing dashboards to track and enhance campaign performance.
 
-**Data Analyst Intern (SME) | XcitEducation Worldwide**  
-*May 2022 - July 2022 | Delhi, India*  
-- Developed engaging video content to educate students on analytical thinking.
-- Created instructional materials on SQL and Python to empower students with data analysis skills.
+### **Data Analyst | Unicommerce**
+*Sep 2025 – Present | India*
+- Developed and maintained **Upsell & Expansion dashboards** used by leadership to track additional sales driven by Customer Success and Upsell teams.
+- Owned **data extraction, transformation, and modeling using SQL (Redash)**, supporting automated **Monthly Business Review (MBR)** dashboards for ~1200 clients.
+- Standardized insights across key metrics including **sales, units, SKUs, RTO, O2S, SLA breaches, and facility-level performance**.
+- Supported **ad-hoc analytics** to identify upsell opportunities, product fit, and operational improvements.
+- Delivered daily and periodic reports to support team performance tracking and decision-making.
+
+### **Data Analyst Intern | ReconZo**
+*Sep 2024 – Mar 2025 | Gurgaon, India*
+- Contributed to building an **Analytics & Business Intelligence product** for e-commerce merchants.
+- Cleaned, transformed, and prepared large datasets using **Python and Advanced Excel** before loading into Power BI.
+- Built **Reconciliation & Payments dashboards** to identify incorrect marketplace fee charges and discrepancies.
+- Developed **Sales deep-dive dashboards** to analyze performance trends and business metrics.
+- Created **daily, weekly, and monthly reports** along with Marketing dashboards to improve ROI.
+
+### **Data Analyst Intern (SME) | XcitEducation Worldwide**
+*May 2022 – Jul 2022 | Delhi, India*
+- Demonstrated strong analytical thinking, diligence, and eagerness to learn while delivering high-quality analytical work.
+- Actively contributed ideas and supported open-source–driven initiatives through discussions and analysis.
+
+---
 
 ## 🚀 Skills
-- **SQL**: PostgreSQL Server, PgAdmin Database
-- **Python**: Data Analysis, Pandas, Numpy
-- **Tools**: MS Excel, Power BI, MS PowerPoint, Goggle Sheets
-- **Soft Skills**: Analytical Thinking, Problem Solving, Continuous Learning, Reporting & Insights Delivering
+
+- **SQL**: PostgreSQL, Redash, PgAdmin  
+- **Python**: Pandas, NumPy, Data Manipulation  
+- **BI & Reporting**: Power BI, Excel (Advanced), Google Sheets  
+- **Analytics**: Dashboarding, Reporting Automation, Business & CX Analytics  
+- **Soft Skills**: Analytical Thinking, Problem Solving, Stakeholder Communication
+
+---
 
 ## 📈 Projects
-- **[🏏 Python Diwali Sales Data Analysis Project](https://github.com/yash29sh/Python-Diwali-Sales-Analysis-Project)**
-  - 🧠 Identify customer behaviour trends during the Diwali sales season.
-  - 📅 Provide actionable insights for sales strategy optimization.
 
+- **[🏏 Python Diwali Sales Data Analysis](https://github.com/yash29sh/Python-Diwali-Sales-Analysis-Project)**
+  - Analyzed customer behavior during festive sales using Python
+  - Generated insights to support sales and marketing strategy optimization
 
 - **[💳 Power BI Credit Card Financial Dashboard](https://github.com/yash29sh/Credit-Card-Financial-Dashboard)**
-  - 🎉 Power BI Credit Card Financial Dashboard Project Unveiled! 🎉 
-    - Delivered real-time insights into crucial KPIs.
-    - Enhanced stakeholder decision-making capabilities.
-    - Identified potential challenges and optimized credit card operations.
-  - **Key Insights**:
-    - ⭐ Revenue Surge: 28.8% weekly growth (WoW), reaching $57M YTD.
-    - ⭐ Transaction Powerhouse: Total transaction volume of $46M.
-    - ⭐ Customer Acquisition: Activation rates at 57.5%.
-    - ⭐ Interest Earnings: $8M YTD from interest income.
-    - ⭐ Gender Split: $31M in transactions from males, $26M from females.
-    - ⭐ Card Type Preference: Blue & Silver cards account for 93% of transactions.
-    - ⭐ Top Performers: Texas, New York, and California contribute 68% of total revenue.
-    - ⭐ Delinquency Management: Current delinquency rate is 6.06%.
+  - Built an interactive Power BI dashboard delivering real-time KPI insights
+  - Analyzed revenue trends, transactions, customer segments, and delinquency metrics
 
+- **[🎵 SQL Music Store Analysis](https://github.com/yash29sh/SQL_Music-Store-Analysis-Project)**
+  - Performed SQL-based analysis on a relational database
+  - Derived insights on sales trends and customer behavior
 
-- **[🎵 SQL Music Store Analysis Project](https://github.com/yash29sh/SQL_Music-Store-Analysis-Project)**
-  - 🎶 Comprehensive analysis of a music store database using SQL and PostgreSQL.
-  - 📊 Generated valuable insights to help understand sales trends and customer preferences.
+- **[👗 Excel Store Sales Analysis](https://github.com/yash29sh/Excel_Store_Data_Analysis)**
+  - Created Excel dashboards to analyze store sales and inventory performance
 
-- **[👗 Excel Clothing Store Data Analysis](https://github.com/yash29sh/Excel_Store_Data_Analysis)**
-  - 📈 Created a data analysis report and dashboard using Excel for Vrinda Store.
-  - 🛒 Provided actionable insights on sales performance and inventory management.
+- **[📊 Power BI Store Sales Dashboard](https://github.com/yash29sh/Madhav-Store-Sales-Analysis-Dashboard)**
+  - Designed interactive dashboards to track and analyze sales metrics
 
-- **[📊 Power BI Madhav Store Analysis Dashboard](https://github.com/yash29sh/Madhav-Store-Sales-Analysis-Dashboard)**
-  - 📉 Developed an interactive Power BI dashboard to analyze and track online sales data.
-  - 🎯 Focused on visualizing key sales metrics to aid in strategic decision-making.
+- **[🏏 Python EDA on IPL Dataset](https://github.com/yash29sh/EDA-On-IPL-Dataset-Through-Python)**
+  - Conducted exploratory data analysis to uncover trends in match and player performance
 
-- **[🏏 Python EDA On IPL Dataset](https://github.com/yash29sh/EDA-On-IPL-Dataset-Through-Python)**
-  - 🧠 Conducted exploratory data analysis on IPL datasets using Python.
-  - 📅 Analyzed match data to uncover trends, player performance, and match outcomes.
-
-
+---
 
 ## 🎓 Education
-**Bachelor of Technology | Modern Institute of Technology & Research Centre**  
-*2020 - 2024 | Alwar, Rajasthan*  
-- Specialization: Artificial Intelligence & Data Science  
-- GPA: 8.54/10
 
-## 🎖️ Certifications
-- **Deep Learning Summer Training** - Prolific Systems & Technologies Pvt. Ltd.
-- **SQL** - HackerRank
-- **Python For Data Analysis** - LinkedIn (Guide: Michele Vallisneri)
+**Bachelor of Technology (B.Tech) | Artificial Intelligence & Data Science**  
+*Modern Institute of Technology & Research Centre*  
+*2020 – 2024 | Alwar, Rajasthan*  
+- **GPA**: 8.54 / 10
 
-## 🌐 Let's Connect
-- **Resume**: [Yash Shukla](https://drive.google.com/file/d/1gdcpvx-6K7zebD3AGsag4gxMkDOtR_XB/view?usp=sharing)
-- **Portfolio**: [yash29sh.github.io](https://yash29sh.github.io/)
-- **LinkedIn**: [Yash Shukla](https://www.linkedin.com/in/yashshukla29)
-- **GitHub**: [Yash Shukla](https://github.com/yash29sh)
+---
+
+## 🌐 Let’s Connect
+
+- **Portfolio**: https://yash29sh.github.io/
+- **LinkedIn**: https://www.linkedin.com/in/yashshukla29
+- **GitHub**: https://github.com/yash29sh
